@@ -1,0 +1,58 @@
+{
+    "current_software_version": 0.20,
+    "current_hardware_version": 1.21,
+    "software_documentation": [
+        {
+            "version": "0.20",
+            "files": [ 
+            
+                {
+                    "title": "Controller Calibration Guide",
+                    "url": "https://raw.githubusercontent.com/Phobos132/PhobGCC/main/README.md"
+                }
+
+            ]
+        },
+        {
+            "version": "0.19",
+            "files": [ 
+            
+                {
+                    "title": "Controller Calibration Guide",
+                    "url": "https://raw.githubusercontent.com/Phobos132/PhobGCC/main/README.md"
+                }
+
+            ]
+        }
+    ],
+    "hardware_documentation": [
+        {
+            "version":"1.2.1",
+            "files": [
+                {
+                    "title": "JLCPCB Ordering Guide",
+                    "url": "https://raw.githubusercontent.com/Phobos132/PhobGCC/main/README.md"
+                }
+            ]
+        },
+        {
+            "version":"1.1",
+            "files": [
+                {
+                    "title": "JLCPCB Ordering Guide",
+                    "url": "https://raw.githubusercontent.com/Phobos132/PhobGCC/main/README.md"
+                }
+            ]
+        }
+    ],
+    "latest_release_notes": [
+        {
+            "type": "software",
+            "version": "0.20"
+        },
+        {
+            "type": "hardware",
+            "version": "1.2.1"
+        }
+    ]
+}
